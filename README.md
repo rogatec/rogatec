@@ -12,7 +12,7 @@
 - 💡 Smart home, currently setting up HomeMatic via [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic)
 - 🏃 When I'm less overweight, I love to run - attended @ [resia lake's race](https://www.reschenseelauf.it) 2013 - time 1h 34min
 - 👨‍🍳 I really enjoy cooking a lot and trying new recipes
-- 📺 Besides binch watching series, I am also a fan of watching NHL 🏒 (go Flyers!) / NBA 🏀 (go Mavs!) / Soccer ⚽ (go FCB Munich!)
+- 📺 Besides binch watching series, I am also a fan of watching NFL 🏈 (fly Eagles!) NHL 🏒 (go Flyers!) / NBA 🏀 (go Mavs!) / Soccer ⚽ (go FCB Munich!)
 
 ## 🌱 I’m currently learning
 
