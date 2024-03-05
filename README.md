@@ -2,8 +2,8 @@
 
 👋 Hi, I’m @rogatec a Backend and Database Engineer.
 
-- Actively using the following tech stack: C# (.NET 6), MSSQL, TypeScript (nodejs), MariaDB.
-- Also I am involved in Ci/CD processes (currently with Bitbucket 😓), helm charts and cloud deployment with flux, k8s.
+- Actively using the following tech stack: C# (.NET 8), MSSQL, TypeScript (nodejs), MariaDB.
+- Also I am involved in Ci/CD processes, helm charts and cloud deployment with flux, k8s.
 - In the past, I also worked with PHP and Laravel and symfony frameworks
 
 ## 👀 I’m interested in
@@ -26,4 +26,4 @@
 
 [📧 E-Mail](mailto:rogaatec@icloud.com)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/t_ec.svg?style=social&label=Follow%20%40t_ec)](https://twitter.com/t_ec)
+[![X-Platform](https://img.shields.io/twitter/url/https/twitter.com/t_ec.svg?style=social&label=Follow%20%40t_ec)](https://twitter.com/t_ec)
