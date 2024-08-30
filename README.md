@@ -34,8 +34,8 @@
 ⚠️ Unfortunately these stats show only my personal repositories, but not the one's I am working in my organisation.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-rogatecs-projects.vercel.app/api?username=rogatec" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-rogatecs-projects.vercel.app/api?username=rogatec" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-rogatecs-projects.vercel.app/api/top-langs/?username=rogatec&layout=compact&langs_count=12&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-rogatecs-projects.vercel.app/api/top-langs/?username=rogatec&layout=compact&langs_count=12&card_width=320" />
 </a>
