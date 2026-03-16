@@ -38,12 +38,14 @@ I had a great tutor back then who was a software architect with extensive experi
 - I am now back to developing and maintaining several microservices written in `PHP` with `Laravel` or `Symfony`.
 - Our company focuses on food and healthy lifestyles, and we have a great app development team. As a `Senior Backend Developer`, however, I focus solely on business logic and deployments.
 - I have started working with `AWS` as the main cloud infrastructure and the deployments are done via `Terraform` - so, again at least two new things to learn! 🥳
+- Privately focusing again on `TypeSCript` (`NestJS`, `Vue`) with increasing a bit my frontend experience
 
 # 👀 I’m interested in
 
 - 🏁 Design Patterns and Software architecture (currently looking into the [hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/)
 - 🔋 Electric 🚗 - driving a [TESLA](https://ts.la/timon42025) and currently a KIA EV3
-- 💡 Smart home with `HomeAssistant`, `EVCC` and upgrading my home with `Shelly` plugs
+- ☀️ 15,1 kWp solar system (8,8kWp 160-South / 890Wp 54-East / 5,34kWp 234-West) with 14,55 kWh battery storage and Backup-Interface
+- 💡 Smart home with `HomeAssistant`, `EVCC`, `FHEM` (to manage my Tecalor heatpump) and upgrading my home with `Shelly` plugs
 - 🌐 I upgraded my local network with `UniFi` components and improve my knowledge in network, firewall and wifi optimizations
 - 🏃 I love to run - attended @ [resia lake's race](https://www.reschenseelauf.it) 2013 - time 1h 34min
 - 👨‍🍳 I really enjoy cooking a lot and trying new recipes
@@ -58,7 +60,7 @@ I had a great tutor back then who was a software architect with extensive experi
 
 [📧 E-Mail](mailto:rogaatec@icloud.com)
 
-[![X-Platform](https://img.shields.io/twitter/url/https/twitter.com/t_ec.svg?style=social&label=Follow%20%40t_ec)](https://twitter.com/t_ec)
+[![X-Platform](https://img.shields.io/twitter/url/https/twitter.com/t_ec.svg?style=social&label=Follow%20%40t_ec)](https://x.com/t_ec)
 
 # 💻 Contribution on GitHub
 
